@@ -77,7 +77,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 📊 **GitHub Analytics & Performance**:
+## 📊 **GitHub Analytics & Performance**
 
 <!-- Enhanced GitHub Stats with animations -->
 <table align="center">
@@ -97,8 +97,9 @@
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtalhajamadar-ux&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=F8D866&dates=C9D1D9&sideLabels=F85D7F&border_radius=15" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=mdtalhajamadar-ux&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=F8D866&dates=C9D1D9&sideLabels=F85D7F&border_radius=15" width="70%" />
 </div>
+
 
 <div align="center">
     <img src="https://img.shields.io/badge/--20B2AA?style=for-the-badge&labelColor=20B2AA&color=20B2AA" width="100%" height="4"/>
