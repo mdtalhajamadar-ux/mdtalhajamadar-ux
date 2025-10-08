@@ -117,7 +117,7 @@
                 </a>
             </td>
             <td align="center" style="padding: 10px;">
-                <a href="https://instagram.com/its_me_talha_820" target="_blank">
+                <a href="https://instagram.com/mj6981" target="_blank">
                     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
                     <br>
                     <sub style="font-size: 0.8em; color: #E4405F;">Instagram</sub>
